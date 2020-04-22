@@ -41,9 +41,9 @@ Le programme a été développée sur le NoteBook Jupyter, en langage Python.
 
 Son déroulement est le suivant :
 
- 1 - Importation du dataset
- 2 - Data Cleaning
- 3 - Data Visualization
+ 1 - Importation du dataset  
+ 2 - Data Cleaning  
+ 3 - Data Visualization  
  4 - Model Training
 
 
